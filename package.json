@@ -16,5 +16,7 @@
     "url": "https://github.com/hectort88/js-starter/issues"
   },
   "homepage": "https://github.com/hectort88/js-starter#readme",
-  "dependencies": {}
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
