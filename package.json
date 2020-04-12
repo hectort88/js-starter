@@ -16,8 +16,5 @@
     "url": "https://github.com/hectort88/js-starter/issues"
   },
   "homepage": "https://github.com/hectort88/js-starter#readme",
-  "dependencies": {
-    "g": "^2.0.1",
-    "nsp": "^3.2.1"
-  }
+  "dependencies": {}
 }
